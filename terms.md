@@ -2,12 +2,6 @@
 
 **Son güncelleme:** 17 Ağustos 2026
 
-> ⚠️ Bu metin dolduruldu ve yayına hazır, ancak nihai bir hukuki inceleme
-> (avukat) yerine geçmez. Özellikle **Sorumluluğun Sınırlandırılması**
-> bölümü — bir trafik kazası/SOS özelliği içeren bir uygulama için — gerçek
-> kullanıcılarla yayına geçmeden önce mutlaka bir avukata gösterilmelidir.
-> "ROTAX" bir şirket olarak tescillendiğinde Madde 1'i güncelleyin.
-
 ## 1. Taraflar
 
 Bu Kullanım Şartları ("Şartlar"), **ROTAX** mobil uygulamasını ("Uygulama")
