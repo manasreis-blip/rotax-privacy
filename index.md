@@ -2,13 +2,6 @@
 
 **Son güncelleme:** 17 Ağustos 2026
 
-Bu metin, ROTAX mobil uygulamasının ("Uygulama") kullanıcılarından hangi
-verileri, ne amaçla topladığını ve bu verilerin nasıl korunduğunu açıklar.
-
-> ⚠️ Bu metin dolduruldu ve yayına hazır, ancak nihai bir hukuki inceleme
-> (avukat/KVKK danışmanı) yerine geçmez — özellikle "ROTAX" bir şirket
-> olarak tescillendiğinde Madde 1'i güncellemeniz gerekecek.
-
 ## 1. Veri Sorumlusu
 
 **ROTAX**, ROTAX uygulaması kapsamında toplanan kişisel verilerin veri
